@@ -36,7 +36,10 @@ loss function: CrossEntropyLoss() to measure the performance of a classification
 
 📊 visualization
 ------------------
-![image](https://github.com/user-attachments/assets/24a9dac1-afec-415f-bef3-7caa45ae94a5)
+![Screenshot 2024-12-27 170251](https://github.com/user-attachments/assets/c68a9887-612b-4920-8023-2b768f748172)
+![Screenshot 2024-12-27 170223](https://github.com/user-attachments/assets/c3d502fc-81fb-4994-a24a-e8584f4c138f)
+
+
 
 🧪 Testing
 -----------------
