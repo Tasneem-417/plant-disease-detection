@@ -47,5 +47,10 @@ testing another images to predict diseases and get accuracy.
 run filename.py .
 Then  upload the image and make prediction.
 
+📈 Results
+---------------------
+Accuracy: Achieved above 95% accuracy on the validation dataset.
+Confusion Matrix: Visualized the performance of the model across classes.
+
 
 
