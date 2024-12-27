@@ -34,7 +34,7 @@ Adam optimizer: for per-parameter adaptive learning rates.
 Learning Rate: that determines the step size at each iteration while moving toward a minimum of a loss function.
 loss function: CrossEntropyLoss() to measure the performance of a classification (model Calculate loss).
 
-visualization
+📊 visualization
 ------------------
 ![image](https://github.com/user-attachments/assets/24a9dac1-afec-415f-bef3-7caa45ae94a5)
 
