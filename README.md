@@ -63,8 +63,8 @@ Then  upload the image and make prediction.
 
 📈 Results
 ---------------------
-Accuracy: Achieved above 95% accuracy on the validation dataset.
-Confusion Matrix: Visualized the performance of the model across classes.
+Accuracy: Achieved 92% accuracy on the test dataset.
+
 
 
 
