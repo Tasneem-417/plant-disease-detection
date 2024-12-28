@@ -63,7 +63,7 @@ Then  upload the image and make prediction.
 
 📈 Results
 ---------------------
-Accuracy: Achieved 97% accuracy on the validation dataset, Achieved 94.03% accuracy on the validation dataset
+Accuracy: Achieved 97% accuracy on the validation dataset, Achieved 94.03% accuracy on the test dataset
 
 
 
